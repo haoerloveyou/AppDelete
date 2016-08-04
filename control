@@ -1,0 +1,10 @@
+Package: com.cabralcole.appdelete
+Name: AppDelete
+Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common (>= 1.2), firmware (>= 9.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Remove close box on specific apps.
+Maintainer: cabralcole
+Author: cabralcole
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/ADSettings.bundle/AppDelete@2x.png
